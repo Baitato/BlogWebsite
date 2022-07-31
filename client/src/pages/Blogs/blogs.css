@@ -1,0 +1,10 @@
+.container {
+    background-color: rgba(123, 123, 123, 0.6);
+    width: 70vw;
+    height: 45vw;
+    position: relative;
+    top : 7vw;
+    left: 15vw;
+    z-index: -1;
+    
+}
